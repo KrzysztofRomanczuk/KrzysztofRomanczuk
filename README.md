@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrzysztofRomanczuk
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Django, AWS/Azure, Javascript, Swift
-- 💞️ I’m looking to collaborate on Machine Learning, Data Science, AI projects in Python
+- 🌱 I’m currently learning Django, REST, PostgreSQL, Javascript, Swift
+- 💞️ I’m looking to collaborate on finance projects in Python
 - 📫 How to reach me Linkedin
 
 <!---
