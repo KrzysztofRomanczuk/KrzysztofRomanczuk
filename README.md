@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KrzysztofRomanczuk
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django, REST, PostgreSQL, Java, AWS/Azure
+- 💡 The technology I use: Python, HTML&CSS, MySQL,
+- 👀 I’m interested in Python 
+- 🌱 I’m currently learning Django, REST, PostgreSQL, PyTest, GIT, Docker, AWS/Azure
 - 💞️ I’m looking to collaborate on finance projects in Python
 - 📫 How to reach me Linkedin
 
