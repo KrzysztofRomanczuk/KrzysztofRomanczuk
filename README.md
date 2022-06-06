@@ -3,7 +3,6 @@
 💡 The technology I use: 
 - Python, 
 - HTML&CSS, 
-- MySQL, 
 - PostgreSQL
 - Django, 
 - REST, 
@@ -18,7 +17,7 @@
 - AWS/Azure
 
 💞️ I’m looking to collaborate on:
-- Finance projects in Python
+- Interesting projects in Python
 
 📫 How to reach me:
 - LinkedIn
