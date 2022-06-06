@@ -5,13 +5,13 @@
 - HTML&CSS, 
 - MySQL, 
 - PostgreSQL
+- Django, 
+- REST, 
 
 👀 I’m interested in:
 - Backend 
 
 🌱 I’m currently learning: 
-- Django, 
-- REST, 
 - PyTest, 
 - Docker, 
 - Kubernetes, 
