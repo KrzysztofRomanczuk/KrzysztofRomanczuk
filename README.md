@@ -11,7 +11,6 @@
 - Backend 
 
 🌱 I’m currently learning: 
-- PyTest, 
 - Docker, 
 - Kubernetes, 
 - AWS/Azure
