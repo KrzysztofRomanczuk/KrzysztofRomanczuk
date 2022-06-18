@@ -1,14 +1,16 @@
 - 👋 Hi, I’m @KrzysztofRomanczuk
 
 💡 The technology I use: 
-- Python, 
-- HTML&CSS, 
+- Python 
+- HTML&CSS
 - PostgreSQL
-- Django, 
-- REST, 
+- Django
+- REST
 
 👀 I’m interested in:
 - Backend 
+- Big Data
+- Data Analytics
 
 🌱 I’m currently learning: 
 - Docker, 
