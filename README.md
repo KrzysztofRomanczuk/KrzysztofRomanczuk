@@ -13,8 +13,8 @@
 - Data Analytics
 
 🌱 I’m currently learning: 
-- Docker, 
-- Kubernetes, 
+- Docker
+- Kubernetes
 - AWS/Azure
 
 💞️ I’m looking to collaborate on:
