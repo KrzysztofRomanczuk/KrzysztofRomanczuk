@@ -13,6 +13,8 @@
 - Data Analytics
 
 🌱 I’m currently learning: 
+- R
+- C
 - Docker
 - Kubernetes
 - AWS/Azure
