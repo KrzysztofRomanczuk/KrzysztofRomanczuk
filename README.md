@@ -15,6 +15,7 @@
 🌱 I’m currently learning: 
 - R
 - C
+- ML
 - JavaScript
 - Docker
 - Kubernetes
