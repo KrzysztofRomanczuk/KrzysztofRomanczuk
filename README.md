@@ -12,10 +12,10 @@
 - Data Analytics
 
 🌱 I’m currently learning: 
-- JavaScript
+- JavaScript > Node
 
 💞️ I’m looking to collaborate on:
-- Interesting projects in Python
+- Interesting projects in Python and JS
 
 📫 How to reach me:
 - LinkedIn
