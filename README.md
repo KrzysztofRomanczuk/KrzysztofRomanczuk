@@ -17,4 +17,5 @@
 - Interesting projects in Python and JS
 
 📫 How to reach me:
-- LinkedIn
+- https://www.linkedin.com/in/krzysztofromanczuk/
+
