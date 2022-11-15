@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrzysztofRomanczuk
 
 💡 The technology I use: 
-- Python [Django, FastApi]
+- Python [Django, FastAPI]
 - HTML&CSS
 - SQL
 - REST
