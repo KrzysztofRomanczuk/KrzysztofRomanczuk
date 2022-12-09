@@ -2,16 +2,16 @@
 
 💡 The technology I use: 
 - Python [Django, FastAPI]
+- JavaScript [React, Node]
 - HTML&CSS
 - SQL
 - REST
 
 👀 I’m interested in:
-- Backend 
-- Data Analytics
+- Web Development 
 
 🌱 I’m currently learning: 
-- JavaScript > Node
+- AI
 
 💞️ I’m looking to collaborate on:
 - Interesting projects in Python and JS
