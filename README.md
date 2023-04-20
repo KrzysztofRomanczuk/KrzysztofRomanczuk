@@ -13,21 +13,20 @@
 - OpenCV
 - Matplotlib
 - TensorFlow
+- Scikit-learn
 - Pandas
 - NumPy
 - React
 
 👀 I’m interested in:
 
-- Web Development
-- Computer Vision
 - Machine Learning
+- Computer Vision
 - Quantum Computing 
 
 🌱 I’m currently learning:
 
-- Azure
-- Cirq
+- Qiskit
 
 💞️ I’m looking to collaborate on:
 
