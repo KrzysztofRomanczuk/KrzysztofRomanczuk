@@ -2,8 +2,8 @@
 
 💡 The technology I use:
 
-- Python (FastAPI)
-- JavaScript (Node)
+- Python(FastAPI)
+- JavaScript/TypeScript(Node, React, Next)
 - HTML & CSS
 - SQL
 - REST
